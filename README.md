@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Merus23
-- 👀 I’m interested in Science Computing and reading
-- 🌱 I’m currently learning python and programming techniques
+- 👀 I do Science Computing at Universidade Federal de Catalão.
+- 🌱 I’m currently learning python and some programming techniques.
 
-Welcome to my Github homepage, I hope you enjoy with my reporsitories
+Welcome to my Github homepage, at moment you won't find repositories cause I'm trying reset my github page.
 
 Thank you for reading this :)
