@@ -41,5 +41,7 @@ I'm studying computer science at the Federal University of Catalão and I'm an i
   
 </div>
 
+<!-- 
 <p align="center"> Visit counter </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/merus23/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/merus23/count.svg" /></p> 
+-->
